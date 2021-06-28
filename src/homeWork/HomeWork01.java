@@ -32,6 +32,8 @@ public class HomeWork01 {
 //		a2(arrayList);
 		System.out.println("修改代码了.....");
 		System.out.println(testTry1());
+		System.out.println("qqqwwe");
+		System.out.println("llusshw");
 	}
 
 	public static void testTry() {
