@@ -30,6 +30,7 @@ public class HomeWork01 {
 //		ArrayList<String> arrayList = new ArrayList<>();
 //		a1(arrayList);
 //		a2(arrayList);
+		System.out.println("修改代码了.....");
 		System.out.println(testTry1());
 	}
 
