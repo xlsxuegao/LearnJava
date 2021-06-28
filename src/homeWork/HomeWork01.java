@@ -31,6 +31,7 @@ public class HomeWork01 {
 //		a1(arrayList);
 //		a2(arrayList);
 		System.out.println(testTry1());
+		System.out.println("qqqwwe");
 	}
 
 	public static void testTry() {
